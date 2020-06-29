@@ -253,6 +253,46 @@ nav{
     color: #f5f5f5;
 }
 
+.yt-butt{
+	color: #e6e6e6;
+	text-decoration: none;
+}
+
+.yt-butt:hover{
+	color: #f00;
+	text-decoration: none;
+}
+
+.tw-butt{
+	color: #e6e6e6;
+	text-decoration: none;
+}
+
+.tw-butt:hover{
+	color: #1da1f2;
+	text-decoration: none;
+}
+
+.re-butt{
+	color: #e6e6e6;
+	text-decoration: none;
+}
+
+.re-butt:hover{
+	color: #ff5700;
+	text-decoration: none;
+}
+
+.gh-butt{
+	color: #e6e6e6;
+	text-decoration: none;
+}
+
+.gh-butt:hover{
+	color: #24292e;
+	text-decoration: none;
+}
+
 #topButt{
     display: none;
     position: fixed;
