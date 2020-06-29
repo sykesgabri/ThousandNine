@@ -1,2 +1,4 @@
-# ThousandNine
-The source code for the official website of ThousandNine Records
+<center><img src="images/logo.png" width="50%"></img></center>
+
+___
+<center>Created by Gabriel Sykes.</center>

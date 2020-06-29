@@ -1,0 +1,301 @@
+/* Nice style bruh. */
+
+body{
+    font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.1em;
+	background: #212121;
+    color: #212121;
+	margin: 0;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logoa{
+    cursor: default;
+    text-decoration: none;
+    display: block;
+    width: 35%;
+}
+
+.logoimg{
+    width: 100%;
+}
+
+.head{
+    font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 2.8em;
+	color: #212121;
+	margin: 0;
+	padding: 0;
+}
+
+.subhead{
+    font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 1.55em;
+	color: #555;
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+    width: 100%;
+}
+
+.navul{
+    width: 100%;
+    height: 10%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #f5f5f5;
+    border-top: 4px solid #32ffaf;
+}
+
+.navli{
+    float: left;
+}
+
+.navli .nava{
+    display: block;
+    color: #212121;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    transition-duration: 0.05s;
+    -webkit-transition-duration: 0.05s;
+}
+
+.navli .nava:hover{
+    display: block;
+    color: #32ffaf;
+    background: #212121;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+.navlir{
+    float: right;
+}
+
+.navlir .navar{
+    display: block;
+    color: #212121;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    transition-duration: 0.05s;
+    -webkit-transition-duration: 0.05s;
+}
+
+.navlir .navar:hover{
+    display: block;
+    color: #f5f5f5;
+    background: #212121;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+.active{
+    display: block;
+    color: #32ffaf;
+    background: #212121;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+.main{
+    width: 100%;
+    background: #f5f5f5;
+}
+
+.lp{
+	margin-left: 1%;
+	margin-right: 10%;
+	text-align: left;
+}
+
+.rp{
+	margin-left: 10%;
+	margin-right: 1%;
+	text-align: right;
+}
+
+.lul{
+    list-style-type: none;
+    text-align: right;
+}
+
+.lli{
+    margin-left: 1.5%;
+}
+
+.rul{
+    list-style-type: none;
+    text-align: right;
+}
+
+.rli{
+    margin-right: 1.5%;
+}
+
+.cp{
+	margin-left: 1%;
+	margin-right: 1%;
+    text-align: center;
+}
+
+.artista:link{
+    color: #32ffaf;
+    background: #212121;
+    border: 4px solid #212121;
+    border-radius: 8px;
+    text-decoration: none;
+    transition-duration: 0.05s;
+    -webkit-transition-duration: 0.05s;
+}
+
+.artista:visited{
+    color: #32ffaf;
+    background: #212121;
+    border: 4px solid #212121;
+    border-radius: 8px;
+    text-decoration: none;
+    transition-duration: 0.05s;
+    -webkit-transition-duration: 0.05s;
+}
+
+.artista:active{
+    color: #32ffaf;
+    background: #212121;
+    border: 4px solid #212121;
+    border-radius: 8px;
+    text-decoration: none;
+    transition-duration: 0.05s;
+    -webkit-transition-duration: 0.05s;
+}
+
+.artista:hover{
+    color: #212121;
+    background: #32ffaf;
+    border: 4px solid #32ffaf;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.artist{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1%;
+	margin-right: 1%;
+    padding: 0;
+	text-align: center;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+
+.artistmirror{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1%;
+	margin-right: 1%;
+    padding: 0;
+	text-align: center;
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+.link:link{
+    color: #32ffaf;
+    background: #212121;
+	border-radius: 2px;
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+    text-decoration: none;
+}
+
+.link:visited{
+    color: #32ffaf;
+    background: #212121;
+	border-radius: 2px;
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+    text-decoration: none;
+}
+
+.link:active{
+    color: #32ffaf;
+    background: #212121;
+	border-radius: 2px;
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #212121;
+    background: #32ffaf;
+	border-radius: 2px;
+	font-size: 1.3em;
+    text-decoration: none;
+}
+
+.bottombar{
+    width: 100%;
+    background: #212121;
+    color: #f5f5f5;
+}
+
+#topButt{
+    display: none;
+    position: fixed;
+    bottom: 1%;
+    right: 1%;
+    z-index: 99;
+    border: 2px solid #212121;
+    outline: none;
+    background: #f5f5f5;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 1.3em;
+}
+
+#topButt:hover{
+    background-color: #212121;
+    color: #32ffaf;
+    border: 2px solid #32ffaf;
+}
+
+::selection{
+	background: #212121;
+	color: #32ffaf;
+}
+
+::-moz-selection{
+	background: #212121;
+	color: #32ffaf;
+}
+
+::-webkit-scrollbar{
+	width: 5px;
+}
+
+::-webkit-scrollbar-track{
+	background: #555;
+}
+
+::-webkit-scrollbar-thumb{
+	background: #000;
+}
+
+::-webkit-scrollbar-thumb:hover{
+	background: #212121;
+}
