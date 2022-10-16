@@ -1,0 +1,11 @@
+Hi, I am the owner of the domain name and website "thousandnine.com".
+I would like to have some archives of this site removed from the wayback machine.
+
+URL/URL Path to exclude: thousandnine.com (and all subdomains)
+Time period of domain ownership: 28/06/2020 to Present
+Time period to exclude: 28/06/2020 to Present
+
+A text file containing an exact copy of what is written in this email should be available at https://thousandnine.com/waybackverify.txt
+
+Yours sincerely,
+Gabriel Sykes
