@@ -1,0 +1,65 @@
+::-moz-selection{
+    color: #fff;
+    background: #02abbb;
+}
+  
+  ::selection {
+    color: #fff;
+    background: #02abbb;
+  }
+
+html{
+    font-family: 'Barlow', sans-serif;
+    background: #000;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    overflow-x: hidden;
+}
+
+.logoa{
+	text-decoration: none;
+	display: block;
+    margin: auto;
+    padding: 0;
+	width: 50%;
+}
+
+.logoimg{
+    width: 100%;
+}
+
+.head{
+    color:#06aaba;
+    font-weight: 700;
+    font-size: 3.5vw;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.subhead{
+    color:#06aaba;
+    font-weight: 400;
+    font-size: 2vw;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.centerp{
+    color:#06aaba;
+    font-weight: 400;
+    font-size: 1.75em;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+
+.ccnotice{
+    color: #06aaba;
+    text-align: center;
+    font-weight: 700;
+}
