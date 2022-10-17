@@ -31,7 +31,7 @@ html{
 }
 
 .head{
-    color:#06aaba;
+    color:#02abbb;
     font-weight: 700;
     font-size: 3.5vw;
     text-align: center;
@@ -40,7 +40,7 @@ html{
 }
 
 .subhead{
-    color:#06aaba;
+    color:#02abbb;
     font-weight: 400;
     font-size: 2vw;
     text-align: center;
@@ -49,7 +49,7 @@ html{
 }
 
 .centerp{
-    color:#06aaba;
+    color:#02abbb;
     font-weight: 400;
     font-size: 1.75em;
     width: 80%;
@@ -59,7 +59,7 @@ html{
 }
 
 .ccnotice{
-    color: #06aaba;
+    color: #02abbb;
     text-align: center;
     font-weight: 700;
 }
