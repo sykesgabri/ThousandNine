@@ -1,11 +1,11 @@
 ::-moz-selection{
     color: #fff;
-    background: #02abbb;
+    background: #024ebb;
 }
   
   ::selection {
     color: #fff;
-    background: #02abbb;
+    background: #024ebb;
   }
 
 html{
